@@ -1,0 +1,2 @@
+/home/vertin/UnityProject/my3d/obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+/home/vertin/UnityProject/my3d/obj/Debug/Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
